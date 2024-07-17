@@ -1,2 +1,2 @@
 # hitbox
-files for hitbox project
+cad files for hitbox project
